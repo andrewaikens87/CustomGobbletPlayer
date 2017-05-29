@@ -1,5 +1,0 @@
-05-28 18:45:29 Engine Gobblet Java Client v1.1 by RIT CS Department starting up
-05-28 18:45:29 Engine Loading player AACO
-05-28 18:45:29 Engine Error: java.lang.ClassNotFoundException: Players.AACO.AACO
-05-28 18:45:29 Engine Error: Failed to load player AACO
-05-28 18:45:29 Engine Error: No players were loaded
