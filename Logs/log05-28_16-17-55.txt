@@ -1,8 +1,0 @@
-05-28 16:17:55 Engine Gobblet Java Client v1.1 by RIT CS Department starting up
-05-28 16:17:55 Engine Loading player EasyPlayer
-05-28 16:17:55 Engine Loading reference player
-05-28 16:17:55 Engine Loaded 2 players
-05-28 16:17:55 Engine Calling init() for player 1
-05-28 16:17:55 Engine Calling init() for player 2
-05-28 16:17:55 P1T_003 doTest called.
-05-28 16:17:55 Engine Game has ended
