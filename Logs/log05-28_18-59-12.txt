@@ -1,4 +1,0 @@
-05-28 18:59:12 Engine Gobblet Java Client v1.1 by RIT CS Department starting up
-05-28 18:59:12 Engine Loading player AACO
-05-28 18:59:12 Engine Loaded 1 player
-05-28 18:59:13 Engine Error: Error during game initialization
